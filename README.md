@@ -1,4 +1,3 @@
-Here's a `README.md` file for your project that you can upload to GitHub. This README provides a summary of the project, the current features implemented, and instructions on how to set it up and use it.
 
 ---
 
